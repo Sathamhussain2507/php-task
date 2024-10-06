@@ -14,7 +14,7 @@ Simple user registration and login using ajax and mysql db
 
 ## Setup
 1. Clone this repository or download the files.
-2. Place the project folder in your web server's root directory (e.g., `C:\wamp64\www\auth` for WAMP).
+2. Place the project folder in your web server's root directory (e.g., `C:\wamp64\www\php-task` for WAMP).
 3. Configure the database connection in `libs/database.php`.
 4. Create the necessary database tables and user credentials from registration.
 5. Open `index.php` in your browser to access the application.
